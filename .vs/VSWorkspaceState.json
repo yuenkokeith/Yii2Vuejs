@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\api",
+    "\\api\\config",
+    "\\api\\modules",
+    "\\api\\modules\\v1",
+    "\\api\\modules\\v1\\controllers",
+    "\\common",
+    "\\common\\models",
+    "\\frontend",
+    "\\frontend\\views",
+    "\\frontend\\views\\site"
+  ],
+  "SelectedNode": "\\api\\config",
+  "PreviewInSolutionExplorer": false
+}
